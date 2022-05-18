@@ -2,7 +2,7 @@
 
 This is a list of Iterator code examples based on samples shared in the [Youtube PHP Iterators Talk by Jake Smith]([https://](https://youtu.be/t7KLwA52K7Y))
 
-
+I used a CakePHP Project under /var/www/wms to do the Directory Iterator Examples
 
 * [Caching Iterator](src/CachingIter.php)
 * [Callback Iterator](src/CallbackIter.php)
